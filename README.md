@@ -21,12 +21,12 @@ Contributors 👥
 
 Technologies Used 🛠️
 
-- Next.js
-- ChatGPT API
-- Tailwind
-- Prisma
-- Typescript
-- Aiven
+- **Next.js**: Framework for server-rendered React applications.
+- **ChatGPT API**: AI engine for generating questions.
+- **Tailwind**: Utility-first CSS framework.
+- **Prisma**: ORM for database management.
+- **TypeScript**: Typed superset of JavaScript.
+- **Aiven**: Managed cloud services.
 
 Installation Instructions 📥
 
