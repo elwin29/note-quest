@@ -1,8 +1,8 @@
-###TopicQuest 🧠❓###
+# TopicQuest 🧠❓
 
-TopicQuest is a web application that generates questions based on a given topic using the ChatGPT API, built to facilitate learning and discussion.
+**TopicQuest** is a web application that generates questions based on a given topic using the ChatGPT API, built to facilitate learning and discussion.
 
-#Overview 🌟#
+## Overview 🌟
 
 - Developed by a team of 5 dedicated developer 🚀
 - Built using Next.js for robust and scalable web applications 🌐
@@ -11,7 +11,7 @@ TopicQuest is a web application that generates questions based on a given topic 
 - Utilizes ChatGPT API to generate questions that are tailored to the given topic 💬
 - A practical tool for educators, students, and discussion groups to enhance topic exploration 📚
 
-Contributors 👥
+## Contributors 👥
 
 - Vladimir Elwin Leonard 🚀
 - Derren Malaka
@@ -19,7 +19,7 @@ Contributors 👥
 - Kelsten Wuisan
 - Kevin Maxwell Andreas
 
-Technologies Used 🛠️
+## Technologies Used 🛠️
 
 - **Next.js**: Framework for server-rendered React applications.
 - **ChatGPT API**: AI engine for generating questions.
@@ -28,17 +28,16 @@ Technologies Used 🛠️
 - **TypeScript**: Typed superset of JavaScript.
 - **Aiven**: Managed cloud services.
 
-Installation Instructions 📥
+## Installation Instructions 📥
 
 1. Clone the repository: `git clone https://github.com/elwin29/topic-quest.git`
 2. Navigate to the project directory: `cd topicquest`
 3. Install dependencies: `npm install`
 4. Run the application: `npm run dev`
 
-Showcase 📷
+## Showcase 📷
 <img width="1512" alt="image" src="https://github.com/elwin29/topic-quest/assets/166210613/0554b338-f3d2-480d-9c51-c3883587c615">
 <img width="1512" alt="image" src="https://github.com/elwin29/topic-quest/assets/166210613/f9831cef-4f02-42aa-8501-64ca4e58d9a8">
 
-Feedback and Contributions 🙌
-
+## Feedback and Contributions 🙌
 We welcome any feedback or contributions to improve TopicQuest. Feel free to submit a pull request or open an issue if you have any suggestions or encounter any bugs.
