@@ -1,8 +1,8 @@
-TopicQuest 🧠❓
+###TopicQuest 🧠❓###
 
 TopicQuest is a web application that generates questions based on a given topic using the ChatGPT API, built to facilitate learning and discussion.
 
-Overview 🌟
+#Overview 🌟#
 
 - Developed by a team of 5 dedicated developer 🚀
 - Built using Next.js for robust and scalable web applications 🌐
@@ -38,9 +38,6 @@ Installation Instructions 📥
 Showcase 📷
 <img width="1512" alt="image" src="https://github.com/elwin29/topic-quest/assets/166210613/0554b338-f3d2-480d-9c51-c3883587c615">
 <img width="1512" alt="image" src="https://github.com/elwin29/topic-quest/assets/166210613/f9831cef-4f02-42aa-8501-64ca4e58d9a8">
-
-
-Showcase
 
 Feedback and Contributions 🙌
 
